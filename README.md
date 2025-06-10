@@ -96,7 +96,7 @@ Wanderlust is a full-stack web application for discovering, creating, editing, a
    -  Mobile-responsive UI improvements
 
 ## 🧑‍💻 Author
-      [Dyuti Mengji](https://github.com/DyutiM25)
+   [Dyuti Mengji](https://github.com/DyutiM25)
 
 ## 📄 License
    - This project is open-source and available under the MIT License.

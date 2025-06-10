@@ -85,19 +85,19 @@ Wanderlust is a full-stack web application for discovering, creating, editing, a
     └── README.md
 
 ## 🧪 Sample User Accounts
-    You can register a new account or use the following credentials to explore:
-    -  Username: testuser
-    -  Password: test123
+   You can register a new account or use the following credentials to explore:
+   -  Username: testuser
+   -  Password: test123
 
 ## 📌 Future Enhancements
-    -  Advanced search and filtering
-    -  Responsive map integration with Mapbox
-    -  Booking and payment features
-    -  Mobile-responsive UI improvements
+   - Advanced search and filtering
+   -  Responsive map integration with Mapbox
+   -  Booking and payment features
+   -  Mobile-responsive UI improvements
 
 ## 🧑‍💻 Author
-      DyutiM25 on GitHub
+      [Dyuti Mengji](https://github.com/DyutiM25)
 
 ## 📄 License
-      This project is open-source and available under the MIT License.
+   - This project is open-source and available under the MIT License.
 

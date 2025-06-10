@@ -21,10 +21,25 @@
       href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200..800&display=swap"
       rel="stylesheet"
     />
+    <link rel="stylesheet" href="/css/rating.css" />
+    <!-- MapLibre CSS -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/maplibre-gl@latest/dist/maplibre-gl.css"
+    />
+
+    <!-- MapLibre JS -->
+    <script src="https://unpkg.com/maplibre-gl@latest/dist/maplibre-gl.js"></script>
+    <script src="https://unpkg.com/@maptiler/sdk@latest/dist/maptiler-sdk.umd.js"></script>
+    <script>
+      const MAP_TOKEN = "<%= process.env.MAP_TOKEN %>";
+    </script>
   </head>
   <body>
     <%- include("../includes/navbar.ejs") %>
-    <div class="container"><%- body %></div>
+    <div class="container">
+      <%- include("../includes/flash.ejs") %> <%- body %>
+    </div>
 
     <%- include("../includes/footer.ejs") %>
     <script

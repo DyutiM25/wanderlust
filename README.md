@@ -84,20 +84,20 @@ Wanderlust is a full-stack web application for discovering, creating, editing, a
     ├── seeds.js            # Seeder script for dummy data
     └── README.md
 
-##🧪 Sample User Accounts
+## 🧪 Sample User Accounts
     You can register a new account or use the following credentials to explore:
     -  Username: testuser
     -  Password: test123
 
-##📌 Future Enhancements
+## 📌 Future Enhancements
     -  Advanced search and filtering
     -  Responsive map integration with Mapbox
     -  Booking and payment features
     -  Mobile-responsive UI improvements
 
-##🧑‍💻 Author
+## 🧑‍💻 Author
       DyutiM25 on GitHub
 
-##📄 License
+## 📄 License
       This project is open-source and available under the MIT License.
 
